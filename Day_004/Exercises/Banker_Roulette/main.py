@@ -10,7 +10,6 @@ names = names_string.split(", ")
 
 #Write your code below this line 👇
 random_index = random.randint(0, len(names)-1)
-print(len(names)-1)
 lucky_person = names[random_index]
 
 print(f"{lucky_person} is going to buy the meal today!")
