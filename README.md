@@ -14,4 +14,4 @@
 | 8 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_008/Exercises">Function Parameters</a>| <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_008/Project">Caesar Cipher</a> |
 | 9 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_009/Exercises">Dictionaries and Nesting</a>| <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_009/Project">Secret_Auction</a> |
 | 10 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_010/Exercises">Functions with Outputs</a>| <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_010/Project">Calculator</a> |
-| 11 | ---- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_011/Project">Blackjack</a> |
+| 11 | Blackjack Capstone Project | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_011/Project">Blackjack</a> |
