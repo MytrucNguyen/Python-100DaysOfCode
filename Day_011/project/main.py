@@ -1,12 +1,10 @@
 # Capstone Project: BlackJack
 import random
 
-
 def deal_card():
   cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
   card = random.choice(cards)
   return card
-
 
 def calculate_score(cards):
 
@@ -16,7 +14,6 @@ def calculate_score(cards):
     cards.remove(11)
     cards.append(1)
   return sum(cards)
-
 
 def compare(user_score, computer_score):
   if user_score > 21 and computer_score > 21:
@@ -36,7 +33,6 @@ def compare(user_score, computer_score):
     return "You win 😃"
   else:
     return "You lose 😤"
-
 
 def play_game():
 
@@ -72,7 +68,6 @@ def play_game():
   print(
       f"   Computer's final hand: {computer_cards}, final score: {computer_score}")
   print(compare(user_score, computer_score))
-
 
 while input("Do you want to play a game of Blackjack? Type 'y' or 'n': ") == "y":
   play_game()
