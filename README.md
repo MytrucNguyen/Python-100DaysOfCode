@@ -18,3 +18,4 @@
 | 12 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_012/Notes/main.py">Scope</a> | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_012/Project">Number Guessing Game</a> |
 | 13 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_013/Exercises">Debugging</a> | ------- |
 | 14 | ---------- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_014/Project">Higher Lower Game</a> |
+| 15 | ---------- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_014/Project">Cofee Machine</a> |
