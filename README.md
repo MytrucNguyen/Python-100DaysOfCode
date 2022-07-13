@@ -20,3 +20,4 @@
 | 14 | ---------- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_014/Project">Higher Lower Game</a> |
 | 15 | ---------- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_015/Project">Cofee Machine</a> |
 | 16 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_016/Notes/main.py">Object Oriented Programming</a> | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_016/Project">OOP Cofee Machine</a> |
+| 17 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_017/Classes/main.py">Benefits of OOP</a> | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_017/Project">Quiz</a> |
