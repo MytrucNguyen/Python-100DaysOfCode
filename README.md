@@ -24,4 +24,4 @@
 | 18 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_018/Exercises">Tutle and Graphical User Interface</a> | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_018/Project/main.py">Spot Painting</a> |
 | 19 | ---- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_019/Etch-A-Sketch/main.py">Etch-A-Sketch</a>, <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_019/Turtle_Race/main.py">Turtle Race</a>|
 | 20 | ---- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_020/Project/main.py">Snake Game</a>|
-| 21 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_021/Notes/main.py">Tutle and Graphical User Interface</a> | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_020/Project/main.py">Snake Game</a>|
+| 21 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_021/Notes/main.py">Class Inheritance</a> | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_021/Project/main.py">Snake Game</a>|
