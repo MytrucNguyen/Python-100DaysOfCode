@@ -27,4 +27,4 @@
 | 21 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_021/Notes/main.py">Class Inheritance</a> | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_021/Project">Snake Game</a>|
 | 22 | ---- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_022/Project">Pong Game</a> |
 | 23 | ---- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_023/Project">Turtle Crosssing</a> |
-| 24 | ---- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_024/Project">Turtle Crosssing</a> |
+| 24 | ---- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_024/Project">Snake Game with Highest Score</a> |
