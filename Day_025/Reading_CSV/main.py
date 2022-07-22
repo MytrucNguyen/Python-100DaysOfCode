@@ -1,5 +1,5 @@
 import os
-os.chdir(r"C:\Users\mytru\Documents\GitHub\Python-100DaysOfCode\Day_025")
+os.chdir(r"C:\Users\mytru\Documents\GitHub\Python-100DaysOfCode\Day_025\Reading_CSV")
 
 import csv
 import pandas
