@@ -28,3 +28,4 @@
 | 22 | ---- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_022/Project">Pong Game</a> |
 | 23 | ---- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_023/Project">Turtle Crosssing</a> |
 | 24 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_024/Notes">Open, Read, and Write to File</a> | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_024/Project/Snake">Snake Game with Highest Score</a>, <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_024/Project/Mail_Merge">Mail Merge</a> |
+| 25 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_025/Notes/Reading_CSV">Reading CSV</a> | --- |
