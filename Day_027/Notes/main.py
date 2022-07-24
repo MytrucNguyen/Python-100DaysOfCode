@@ -19,3 +19,10 @@ tim = turtle.Turtle()
 tim.write("Some Text", font=("Times New Roman", 30, "bold"))
 
 # Unlimited Arguments
+def add(*args):
+    total = 0
+    for num in args:
+        total += num
+    return total
+
+print(add(3, 5, 6))
