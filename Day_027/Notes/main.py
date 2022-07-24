@@ -13,7 +13,7 @@ my_label.pack()
 
 window.mainloop()
 
-# timmy 
+# tim
 
-timmy = turtle.Turtle()
-timmy.write()
+tim = turtle.Turtle()
+tim.write("Some Text", font=("Times New Roman", 30, "bold"))
