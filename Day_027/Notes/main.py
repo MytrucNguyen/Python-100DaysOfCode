@@ -17,3 +17,5 @@ window.mainloop()
 
 tim = turtle.Turtle()
 tim.write("Some Text", font=("Times New Roman", 30, "bold"))
+
+# Unlimited Arguments
