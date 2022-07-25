@@ -1,5 +1,6 @@
 import tkinter
 import turtle
+from tkinter import *
 
 window = tkinter.Tk()
 
@@ -10,6 +11,24 @@ window.minsize(width=500, height=300)
 # label
 my_label = tkinter.Label(text="I Am a Label", font=("Ariel", 12, "bold"))
 my_label.pack()
+
+my_label["text"] = "New Text"
+my_label.config(text="Next Text 2")
+
+
+
+# Button
+def button_clicked():
+    new_text = input.get()
+    my_label.config(text=new_text)
+
+button = tkinter.Button(text="Click Me", command=button_clicked)
+button.pack()
+
+# Entry 
+input = Entry(width=10)
+input.pack()
+
 
 window.mainloop()
 
