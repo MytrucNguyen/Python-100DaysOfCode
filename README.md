@@ -33,3 +33,4 @@
 | 27 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_027/Notes">Tkinter, *args, **kwargs and Creating GUI Programs</a> | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_027/Project/main.py">Miles to Kilometers Converter</a> |
 | 28 | --- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_028/Project/main.py">Pomodoro</a> |
 | 29 | --- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_029/Project/main.py">Password Generator</a> |
+| 30 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_030/Notes/Catching_Exceptions/main.py">Catching Exceptions</a> | ---- |
