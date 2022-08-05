@@ -34,3 +34,4 @@
 | 28 | --- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_028/Project/main.py">Pomodoro</a> |
 | 29 | --- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_029/Project/main.py">Password Generator</a> |
 | 30 | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_030/Notes/Catching_Exceptions/main.py">Catching Exceptions, Raising Own Exceptions</a>, <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode\Day_030\Exercise\IndexErrorHandling/main.py">IndexError Handling</a>, <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode\Day_030\Exercise\KeyError_Handling/main.py">KeyError Handling</a> | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_030/Project/main.py">Password Generator</a> |
+| 30 | ---- | <a href="https://github.com/MytrucNguyen/Python-100DaysOfCode/tree/main/Day_031/Project/main.py">Flash Card</a> |
